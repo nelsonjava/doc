@@ -3,7 +3,7 @@ from setuptools import setup
 
 setup(
     name='Nafg-docs',
-    version='0.0.1',
+    version='0.0.2',
     packages=['binance'],
     description='Documentation General',
     url='https://github.com/nelsonjava/doc',
