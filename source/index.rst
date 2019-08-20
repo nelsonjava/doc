@@ -20,7 +20,6 @@ Welcome to pruebas's documentation!
    websockets
    depth_cache
    withdraw
-   helpers
    exceptions
    faqs
    changelog
