@@ -24,9 +24,6 @@ Welcome to pruebas's documentation!
    exceptions
    faqs
    changelog
-   binance
-
-
 
 
 Indices and tables
