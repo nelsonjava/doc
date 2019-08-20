@@ -8,8 +8,7 @@ Welcome to pruebas's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
-
+   
    overview
    constants
    general
