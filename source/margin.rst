@@ -184,6 +184,3 @@ Loans
 `Get max loan amount <binance.html#binance.client.Client.get_max_margin_loan>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. code:: python
-
-    details = client.get_max_margin_loan(asset='BTC')
